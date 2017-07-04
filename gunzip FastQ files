@@ -1,0 +1,1 @@
+gunzip -c x.fastq.gz > x.fastq #decompresses FastQ data and keeps original .gz file.
